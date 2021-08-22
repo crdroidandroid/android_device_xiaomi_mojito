@@ -62,7 +62,8 @@ PRODUCT_BUILD_SUPER_PARTITION := false
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay
+    $(LOCAL_PATH)/overlay \
+		$(LOCAL_PATH)/overlay-lineage
 
 # Sensor
 TARGET_ENABLE_MULTI_SENSOR := true
