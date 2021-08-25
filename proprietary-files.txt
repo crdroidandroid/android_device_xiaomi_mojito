@@ -653,7 +653,7 @@ vendor/etc/thermal-phone.conf
 vendor/etc/thermal-tgame.conf
 vendor/etc/thermald-devices.conf
 
-# Touch Improve
+# Touch Improve from LA.UM.9.1.r1-10200-SMxxx0.0
 -vendor/app/com.qualcomm.qti.improvetouch.service/com.qualcomm.qti.improvetouch.service.apk
 vendor/lib64/vendor.qti.hardware.improvetouch.touchcompanion@1.0.so
 vendor/lib64/vendor.qti.hardware.improvetouch.touchcompanion@1.0-service.so
@@ -664,5 +664,5 @@ vendor/lib64/libhbtpclient.so
 vendor/lib64/libhbtpdsp.so
 vendor/lib64/libhbtpfrmwk.so
 
-# WLAN
+# WLAN from LA.UM.9.1.r1-10200-SMxxx0.0
 vendor/bin/cnss-daemon
