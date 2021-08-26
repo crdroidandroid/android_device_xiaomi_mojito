@@ -313,6 +313,12 @@ vendor/lib64/lib_denoiser3.so
 vendor/lib64/libvideofilter_only.so
 vendor/lib64/libxmi_high_dynamic_range.so
 vendor/lib64/libI420colorconvert.so
+vendor/lib64/android.hardware.camera.provider@2.4-legacy.so
+vendor/lib64/android.hardware.camera.provider@2.4-external.so
+vendor/lib/android.hardware.camera.provider@2.4-external.so
+vendor/lib/android.hardware.camera.provider@2.4-legacy.so
+vendor/etc/init/android.hardware.camera.provider@2.4-service_64.rc
+vendor/bin/hw/android.hardware.camera.provider@2.4-service_64
 
 # Camera Arcsoft
 vendor/lib64/libarcsoft_beautyshot.so
