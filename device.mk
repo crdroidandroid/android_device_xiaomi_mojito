@@ -53,8 +53,8 @@ TARGET_SCREEN_HEIGHT := 2400
 TARGET_SCREEN_WIDTH := 1080
 
 # Cutout Ring
-PRODUCT_PACKAGES += \
-    CutoutRingServiceMojito
+# PRODUCT_PACKAGES += \
+#     CutoutRingServiceMojito
 
 # Device uses high-density artwork where available
 PRODUCT_AAPT_CONFIG := normal
