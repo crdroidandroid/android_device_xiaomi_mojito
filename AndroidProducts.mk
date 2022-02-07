@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_mojito.mk
+    $(LOCAL_DIR)/spiceos_mojito.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_mojito-eng \
-    lineage_mojito-userdebug \
-    lineage_mojito-eng
+    spiceos_mojito-eng \
+    spiceos_mojito-userdebug \
+    spiceos_mojito-eng
