@@ -675,5 +675,5 @@ vendor/lib64/libhbtpclient.so
 vendor/lib64/libhbtpdsp.so
 vendor/lib64/libhbtpfrmwk.so
 
-# WLAN
+# WLAN - from mojito qssi-user 12 SKQ1.210908.001 V13.0.5.0.SKGMIXM release-keys
 vendor/bin/cnss-daemon
