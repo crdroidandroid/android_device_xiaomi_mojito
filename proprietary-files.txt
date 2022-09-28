@@ -133,6 +133,9 @@ vendor/lib64/libaudio_log_utils.so
 # Camera
 vendor/lib64/libwa_rtdof.so
 vendor/lib64/libwa_dof.so
+vendor/lib64/libanc_dc_plugin_xiaomi_v2.so
+vendor/lib64/libmiStereoFactoryRemapBasicLib.so
+vendor/lib64/libmiStereoFactoryRemapLib_v2.so
 vendor/lib64/libarcsat.so
 vendor/lib64/libmiai_supernight.so
 vendor/lib64/libmiStereoFactoryRemapLib.so
