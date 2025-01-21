@@ -4,3 +4,7 @@ persist.vendor.audio.voicecall.speaker.stereo=true
 
 # Camera
 persist.vendor.camera.privapp.list=com.android.camera
+
+# Fingerprint
+persist.vendor.fingerprint.type=side
+persist.vendor.fingerprint.sensor_location=1080|925|115|local:4630946773257169537
